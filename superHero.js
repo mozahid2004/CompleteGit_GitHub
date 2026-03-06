@@ -22,3 +22,7 @@ const superHeroes = [
 ];
 
 console.log(superHeroes);
+
+superHeroes.array.forEach(element => {
+  console.log("HERO :",element);
+});

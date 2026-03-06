@@ -13,3 +13,7 @@ const Family = () => {
 }
 
 Family()
+
+const Career = () => {
+  //  Mozahid want to become Web developer
+}

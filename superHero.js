@@ -28,3 +28,4 @@ superHeroes.array.forEach(element => {
 });
 
 const FreedomFighter = ["Gandhi Ji", "Subhash Chandra Bose"]
+console.log(FreedomFighter);

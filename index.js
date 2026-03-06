@@ -17,9 +17,3 @@ Family()
 const Career = () => {
   //  Mozahid want to become Web developer
 }
-
-
-
-Career()
-
-let fruits = ["Mango"]
